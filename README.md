@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/k9ueki2o75dkpm6q?svg=true)](https://ci.appveyor.com/project/vapanov/ra-redux-editing)
+[![Build status](https://ci.appveyor.com/api/projects/status/g6yt00fma676289b?svg=true)](https://ci.appveyor.com/project/Anna7682/ra-redux-editing)
 
 WEB VERSION https://anna7682.github.io/ra-redux-editing/
 
